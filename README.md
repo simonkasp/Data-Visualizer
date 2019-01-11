@@ -1,6 +1,6 @@
 # Data-Visualizer
 
-Data Visualizer using Windows WPF. The program is capable to visualize an object rotation in real time
+Data Visualizer using WPF (Windows Presentation Foundation). The program is capable to visualize an object rotation in real time
 and the object rotation, which occured in the past.
 
 The operation of the program consists of:
