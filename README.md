@@ -7,3 +7,7 @@ The operation of the program consists of:
 1. Receiving data. Data is obtained from sensors (gyroscope and accelerometer) or from file.
 2. Data processing. Once data is received, they are processed by Butterworth and Madgwick algorithms.
 3. Data visualization. When data is processed, it is used to rotate the object.
+
+A short video that shows the real-time change of the object:
+
+<video src="https://www.youtube.com/watch?v=5YRYtuvI1U0" width="320" height="200" controls preload></video>
