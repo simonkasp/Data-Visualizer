@@ -10,4 +10,4 @@ The operation of the program consists of:
 
 A short video that shows the real-time change of the object:
 
-[![Watch the video]()](https://www.youtube.com/watch?v=5YRYtuvI1U0)
+[![Watch the video](http://www.mediafire.com/view/46977a2zdzb9djq/Screenshot_20190111-142335_Video%20Player.jpg)](https://www.youtube.com/watch?v=5YRYtuvI1U0)
