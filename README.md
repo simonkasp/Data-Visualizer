@@ -10,4 +10,4 @@ The operation of the program consists of:
 
 A short video that shows the real-time change of the object:
 
-<video src="https://www.youtube.com/watch?v=5YRYtuvI1U0" width="320" height="200" controls preload></video>
+[![Watch the video]()](https://www.youtube.com/watch?v=5YRYtuvI1U0)
